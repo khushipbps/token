@@ -13,6 +13,9 @@ Functionality is as given bellow
 
 ## Getting Started
 
+### Pre-requisites
+- Install node.js
+
 ### Executing program
 
 To run this program, you can use VSCode as local code editor and paste code from `nft.js` file.
