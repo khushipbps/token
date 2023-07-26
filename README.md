@@ -5,11 +5,11 @@ This Javascript program is a simple program that demonstrates the basic usage of
 ## Description
 
 This program is a simple implementation of NFT in javascript. 
-Here we have some requirements as given below :-
-- create a variable `NFTs` - This variable used to store any number of NFTs.
-- implement `mintNFT` function - This function takes multiple arguments and is used for adding objects in an array
-- implement `listNFTs` function - This function takes no argument and prints all NFTs in console which were stord using `mintNFT`.
-- implement `getTotalSupply` function - This function takes no argument and print the number of NFTs.
+Functionality is as given bellow
+- global variable `NFTs` - This variable used to store any number of NFTs.
+- `mintNFT` function - This function takes multiple arguments and is used for adding objects in an array
+- `listNFTs` function - This function takes no argument and prints all NFTs in console which were stord using `mintNFT`.
+- `getTotalSupply` function - This function takes no argument and print the number of NFTs.
 
 ## Getting Started
 
